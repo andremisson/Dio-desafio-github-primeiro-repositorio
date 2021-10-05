@@ -2,7 +2,7 @@
 Repositório criado para o desafio de projeto sobre Git/Github
 
 ## Links Úteis
-[Guia sobre arquivos markdown] https://www.markdownguide.org/getting-started/
+[Guia sobre arquivos markdown](https://www.markdownguide.org/getting-started/)
 
 
 
