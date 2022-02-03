@@ -1,5 +1,5 @@
-# Desafio de projeto sobre Git/Github da DIO
-Repositório criado para o desafio de projeto sobre Git/Github
+# Desafio projeto básico de python
+Repositório criado para as postagens básicas
 
 ## Links Úteis
 [Guia sobre arquivos markdown](https://www.markdownguide.org/getting-started/)
