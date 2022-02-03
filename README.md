@@ -1,5 +1,5 @@
-# Desafio projeto básico de python
-Repositório criado para as postagens básicas
+# Desafio projeto básico de Python
+Repositório criado para as postagens básicas em Python
 
 ## Links Úteis
 [Guia sobre arquivos markdown](https://www.markdownguide.org/getting-started/)
